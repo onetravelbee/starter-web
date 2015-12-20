@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Adam Booth    onetravelbee@yahoo.com  onetravelbee
 
 # THANKS
 
